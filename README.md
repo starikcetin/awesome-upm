@@ -13,6 +13,7 @@
 
 # How to support UPM in my Git repository?
 
-UPM wants a package.json file at the root. There are ways of doing this without changing your whole repository structure:
-https://www.patreon.com/posts/25070968
+UPM wants a package.json file at the root. There are ways of doing this without changing your whole repository structure. Take a look at this amazing article by mob-sakai: https://www.patreon.com/posts/25070968
+
+After you read that article, take a look at this tool for automating that process: https://github.com/starikcetin/git-upm-publisher
 
