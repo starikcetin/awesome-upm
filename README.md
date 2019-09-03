@@ -3,7 +3,8 @@
 * Extenject (fork): https://github.com/starikcetin/Extenject
 * UniRx (fork): https://github.com/starikcetin/UniRx
 * uREPL (fork): https://github.com/starikcetin/uREPL
-* NuGetForUnity (fork): https://github.com/starikcetin/NuGetForUnity
+* NuGet for Unity (fork): https://github.com/starikcetin/NuGetForUnity
+* Scene Reference: https://github.com/starikcetin/unity-scene-reference
 
 # UPM Utilities
 
