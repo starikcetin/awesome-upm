@@ -9,6 +9,7 @@
 * Constants Generator (import from gist): https://github.com/starikcetin/unity-constants-generator
 * UI Extensions: https://bitbucket.org/UnityUIExtensions/unity-ui-extensions
 * Eflatun.Expansions: https://github.com/starikcetin/Eflatun.Expansions
+* Eflatun.UnityCommon: https://github.com/starikcetin/Eflatun.UnityCommon
 
 # UPM Utilities
 
