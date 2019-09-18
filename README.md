@@ -8,6 +8,7 @@
 * Serializable Dictionary (fork): https://github.com/starikcetin/Unity-SerializableDictionary
 * Constants Generator (import from gist): https://github.com/starikcetin/unity-constants-generator
 * UI Extensions: https://bitbucket.org/UnityUIExtensions/unity-ui-extensions
+* Eflatun.Expansions: https://github.com/starikcetin/Eflatun.Expansions
 
 # UPM Utilities
 
