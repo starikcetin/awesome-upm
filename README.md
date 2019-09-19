@@ -10,6 +10,7 @@
 * UI Extensions: https://bitbucket.org/UnityUIExtensions/unity-ui-extensions
 * Eflatun.Expansions: https://github.com/starikcetin/Eflatun.Expansions
 * Eflatun.UnityCommon: https://github.com/starikcetin/Eflatun.UnityCommon
+* Unity Addressable Importer: https://github.com/favoyang/unity-addressable-importer
 
 # UPM Utilities
 
