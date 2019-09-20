@@ -11,6 +11,7 @@
 * Eflatun.Expansions: https://github.com/starikcetin/Eflatun.Expansions
 * Eflatun.UnityCommon: https://github.com/starikcetin/Eflatun.UnityCommon
 * Unity Addressable Importer: https://github.com/favoyang/unity-addressable-importer
+* Eflatun.Tracking2D: https://github.com/starikcetin/Eflatun.Tracking2D
 
 # UPM Utilities
 
