@@ -13,6 +13,7 @@
 * Unity Addressable Importer: https://github.com/favoyang/unity-addressable-importer
 * Eflatun.Tracking2D: https://github.com/starikcetin/Eflatun.Tracking2D
 * CommUnityStore: https://github.com/RafaelGrochoska/CommUnityStore
+* Eflatun.HexMath: https://github.com/starikcetin/Eflatun.HexMath
 
 # UPM Utilities
 
