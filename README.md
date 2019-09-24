@@ -21,7 +21,8 @@
 * Git dependency resolver for UPM:
   * https://github.com/mob-sakai/GitDependencyResolverForUnity
   * https://github.com/k0dep/Originer
-* Automate UPM publishing for Git repos: https://github.com/starikcetin/git-upm-publisher
+* (WIP) Automate UPM publishing for Git repos: https://github.com/starikcetin/git-upm-publisher
+* (WIP) Public package registry for UPM: https://github.com/openupm
 
 # How to support UPM in my Git repository?
 
