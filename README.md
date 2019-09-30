@@ -14,6 +14,7 @@
 * Eflatun.Tracking2D: https://github.com/starikcetin/Eflatun.Tracking2D
 * CommUnityStore: https://github.com/RafaelGrochoska/CommUnityStore
 * Eflatun.HexMath: https://github.com/starikcetin/Eflatun.HexMath
+* Scene View Camera Aligner: https://github.com/baba-s/uni-scene-view-camera-aligner
 
 # UPM Utilities
 
