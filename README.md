@@ -15,6 +15,10 @@
 * CommUnityStore: https://github.com/RafaelGrochoska/CommUnityStore
 * Eflatun.HexMath: https://github.com/starikcetin/Eflatun.HexMath
 * Scene View Camera Aligner: https://github.com/baba-s/uni-scene-view-camera-aligner
+* Newtonsoft.Json:
+  * https://github.com/PixelWizards/com.newtonsoft.json
+  * https://github.com/k0dep/Newtonsoft.Json
+  * https://github.com/Wolfoso/NewtonsoftJson
 
 # UPM Utilities
 
