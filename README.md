@@ -19,6 +19,9 @@
   * https://github.com/PixelWizards/com.newtonsoft.json
   * https://github.com/k0dep/Newtonsoft.Json
   * https://github.com/Wolfoso/NewtonsoftJson
+* Json RPC: https://github.com/k0dep/Unity-Json-Rpc
+* Enum Generator: https://github.com/BastianBlokland/enum-generator-unity
+* litjson: https://github.com/junaidshad/litjson
 
 # UPM Utilities
 
@@ -29,6 +32,7 @@
   * https://github.com/k0dep/Originer
 * (WIP) Automate UPM publishing for Git repos: https://github.com/starikcetin/git-upm-publisher
 * (WIP) Public package registry for UPM: https://github.com/openupm
+* UPM Package Populator: https://github.com/ashblue/upm-package-populator
 
 # How to support UPM in my Git repository?
 
