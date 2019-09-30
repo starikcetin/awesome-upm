@@ -21,7 +21,6 @@
   * https://github.com/Wolfoso/NewtonsoftJson
 * Json RPC: https://github.com/k0dep/Unity-Json-Rpc
 * Enum Generator: https://github.com/BastianBlokland/enum-generator-unity
-* litjson: https://github.com/junaidshad/litjson
 
 # UPM Utilities
 
