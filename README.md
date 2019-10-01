@@ -21,6 +21,10 @@
   * https://github.com/Wolfoso/NewtonsoftJson
 * Json RPC: https://github.com/k0dep/Unity-Json-Rpc
 * Enum Generator: https://github.com/BastianBlokland/enum-generator-unity
+* Compile Time Tracker: https://github.com/DarrenTsung/DTCompileTimeTracker
+* NaughtyAttributes (fork): https://github.com/JimmyCushnie/NaughtyAttributes
+* UI Shapes Kit (fork): https://github.com/JimmyCushnie/ui-shapes-kit_jimmyfork/
+* SUCC: http://www.succ.software/
 
 # UPM Utilities
 
