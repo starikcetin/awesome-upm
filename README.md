@@ -26,6 +26,7 @@
 * UI Shapes Kit (fork): https://github.com/JimmyCushnie/ui-shapes-kit_jimmyfork/
 * SUCC: http://www.succ.software/
 * Eflatun.GeoUnity: https://github.com/starikcetin/Eflatun.GeoUnity
+* Cinemachine: https://github.com/Unity-Technologies/upm-package-cinemachine
 
 # UPM Utilities
 
