@@ -27,6 +27,7 @@
 * SUCC: http://www.succ.software/
 * Eflatun.GeoUnity: https://github.com/starikcetin/Eflatun.GeoUnity
 * Cinemachine: https://github.com/Unity-Technologies/upm-package-cinemachine
+* EntitySelection: https://github.com/JonasDeM/EntitySelection
 
 # UPM Utilities
 
