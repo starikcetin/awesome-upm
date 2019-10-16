@@ -29,6 +29,7 @@
 * Cinemachine: https://github.com/Unity-Technologies/upm-package-cinemachine
 * EntitySelection: https://github.com/JonasDeM/EntitySelection
 * Ingame Debug Console (fork): https://github.com/starikcetin/UnityIngameDebugConsole
+* ECS Line Renderer: https://github.com/5argon/ECSLineRenderer
 
 # UPM Utilities
 
