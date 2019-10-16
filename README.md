@@ -28,6 +28,7 @@
 * Eflatun.GeoUnity: https://github.com/starikcetin/Eflatun.GeoUnity
 * Cinemachine: https://github.com/Unity-Technologies/upm-package-cinemachine
 * EntitySelection: https://github.com/JonasDeM/EntitySelection
+* Ingame Debug Console (fork): https://github.com/starikcetin/UnityIngameDebugConsole
 
 # UPM Utilities
 
