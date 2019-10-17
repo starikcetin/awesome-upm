@@ -30,6 +30,7 @@
 * EntitySelection: https://github.com/JonasDeM/EntitySelection
 * Ingame Debug Console (fork): https://github.com/starikcetin/UnityIngameDebugConsole
 * ECS Line Renderer: https://github.com/5argon/ECSLineRenderer
+* NanoECS: https://github.com/SinyavtsevIlya/NanoECS
 
 # UPM Utilities
 
