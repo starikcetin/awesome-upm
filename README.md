@@ -1,48 +1,50 @@
 # A list of Git repositories for Unity that support Unity Package Manager (UPM)
 
-* Extenject (fork): https://github.com/starikcetin/Extenject
-* UniRx (fork): https://github.com/starikcetin/UniRx
-* uREPL (fork): https://github.com/starikcetin/uREPL
-* NuGet for Unity (fork): https://github.com/starikcetin/NuGetForUnity
-* Scene Reference (import form gist): https://github.com/starikcetin/unity-scene-reference
-* Serializable Dictionary (fork): https://github.com/starikcetin/Unity-SerializableDictionary
-* Constants Generator (import from gist): https://github.com/starikcetin/unity-constants-generator
-* UI Extensions: https://bitbucket.org/UnityUIExtensions/unity-ui-extensions
-* Eflatun.Expansions: https://github.com/starikcetin/Eflatun.Expansions
-* Eflatun.UnityCommon: https://github.com/starikcetin/Eflatun.UnityCommon
-* Unity Addressable Importer: https://github.com/favoyang/unity-addressable-importer
-* Eflatun.Tracking2D: https://github.com/starikcetin/Eflatun.Tracking2D
-* CommUnityStore: https://github.com/RafaelGrochoska/CommUnityStore
-* Eflatun.HexMath: https://github.com/starikcetin/Eflatun.HexMath
-* Scene View Camera Aligner: https://github.com/baba-s/uni-scene-view-camera-aligner
-* Newtonsoft.Json:
-  * https://github.com/PixelWizards/com.newtonsoft.json
-  * https://github.com/k0dep/Newtonsoft.Json
-  * https://github.com/Wolfoso/NewtonsoftJson
-* Json RPC: https://github.com/k0dep/Unity-Json-Rpc
-* Enum Generator: https://github.com/BastianBlokland/enum-generator-unity
-* Compile Time Tracker: https://github.com/DarrenTsung/DTCompileTimeTracker
-* NaughtyAttributes (fork): https://github.com/JimmyCushnie/NaughtyAttributes
-* UI Shapes Kit (fork): https://github.com/JimmyCushnie/ui-shapes-kit_jimmyfork/
-* SUCC: http://www.succ.software/
-* Eflatun.GeoUnity: https://github.com/starikcetin/Eflatun.GeoUnity
-* Cinemachine: https://github.com/Unity-Technologies/upm-package-cinemachine
-* EntitySelection: https://github.com/JonasDeM/EntitySelection
-* Ingame Debug Console (fork): https://github.com/starikcetin/UnityIngameDebugConsole
-* ECS Line Renderer: https://github.com/5argon/ECSLineRenderer
-* NanoECS: https://github.com/SinyavtsevIlya/NanoECS
-* Eflatun.WebView: https://github.com/starikcetin/Eflatun.WebView
+| Name                                   	| URL                                                           	|
+|----------------------------------------	|---------------------------------------------------------------	|
+| Extenject (fork)                       	| https://github.com/starikcetin/Extenject                      	|
+| UniRx (fork)                           	| https://github.com/starikcetin/UniRx                          	|
+| uREPL (fork)                           	| https://github.com/starikcetin/uREPL                          	|
+| NuGet for Unity (fork)                 	| https://github.com/starikcetin/NuGetForUnity                  	|
+| Scene Reference (import form gist)     	| https://github.com/starikcetin/unity-scene-reference          	|
+| Serializable Dictionary (fork)         	| https://github.com/starikcetin/Unity-SerializableDictionary   	|
+| Constants Generator (import from gist) 	| https://github.com/starikcetin/unity-constants-generator      	|
+| UI Extensions                          	| https://bitbucket.org/UnityUIExtensions/unity-ui-extensions   	|
+| Eflatun.Expansions                     	| https://github.com/starikcetin/Eflatun.Expansions             	|
+| Eflatun.UnityCommon                    	| https://github.com/starikcetin/Eflatun.UnityCommon            	|
+| Unity Addressable Importer             	| https://github.com/favoyang/unity-addressable-importer        	|
+| Eflatun.Tracking2D                     	| https://github.com/starikcetin/Eflatun.Tracking2D             	|
+| CommUnityStore                         	| https://github.com/RafaelGrochoska/CommUnityStore             	|
+| Eflatun.HexMath                        	| https://github.com/starikcetin/Eflatun.HexMath                	|
+| Scene View Camera Aligner              	| https://github.com/baba-s/uni-scene-view-camera-aligner       	|
+| Newtonsoft.Json                        	| https://github.com/PixelWizards/com.newtonsoft.json           	|
+| Newtonsoft.Json                        	| https://github.com/k0dep/Newtonsoft.Json                      	|
+| Newtonsoft.Json                        	| https://github.com/Wolfoso/NewtonsoftJson                     	|
+| Json RPC                               	| https://github.com/k0dep/Unity-Json-Rpc                       	|
+| Enum Generator                         	| https://github.com/BastianBlokland/enum-generator-unity       	|
+| Compile Time Tracker                   	| https://github.com/DarrenTsung/DTCompileTimeTracker           	|
+| NaughtyAttributes (fork)               	| https://github.com/JimmyCushnie/NaughtyAttributes             	|
+| UI Shapes Kit (fork)                   	| https://github.com/JimmyCushnie/ui-shapes-kit_jimmyfork/      	|
+| SUCC                                   	| http://www.succ.software/                                     	|
+| Eflatun.GeoUnity                       	| https://github.com/starikcetin/Eflatun.GeoUnity               	|
+| Cinemachine                            	| https://github.com/Unity-Technologies/upm-package-cinemachine 	|
+| EntitySelection                        	| https://github.com/JonasDeM/EntitySelection                   	|
+| Ingame Debug Console (fork)            	| https://github.com/starikcetin/UnityIngameDebugConsole        	|
+| ECS Line Renderer                      	| https://github.com/5argon/ECSLineRenderer                     	|
+| NanoECS                                	| https://github.com/SinyavtsevIlya/NanoECS                     	|
+| Eflatun.WebView                        	| https://github.com/starikcetin/Eflatun.WebView                	|
 
 # UPM Utilities
 
-* NuGet support for UPM: https://github.com/xoofx/UnityNuGet
-* Elegant UI in UPM for Git repo imports: https://github.com/mob-sakai/UpmGitExtension
-* Git dependency resolver for UPM:
-  * https://github.com/mob-sakai/GitDependencyResolverForUnity
-  * https://github.com/k0dep/Originer
-* (WIP) Automate UPM publishing for Git repos: https://github.com/starikcetin/git-upm-publisher
-* (WIP) Public package registry for UPM: https://github.com/openupm
-* UPM Package Populator: https://github.com/ashblue/upm-package-populator
+| Name                                        	| URL                                                        	|
+|---------------------------------------------	|------------------------------------------------------------	|
+| NuGet support for UPM                       	| https://github.com/xoofx/UnityNuGet                        	|
+| Elegant UI in UPM for Git repo imports      	| https://github.com/mob-sakai/UpmGitExtension               	|
+| Git dependency resolver for UPM             	| https://github.com/mob-sakai/GitDependencyResolverForUnity 	|
+| Git dependency resolver for UPM             	| https://github.com/k0dep/Originer                          	|
+| (WIP) Automate UPM publishing for Git repos 	| https://github.com/starikcetin/git-upm-publisher           	|
+| (WIP) Public package registry for UPM       	| https://github.com/openupm                                 	|
+| UPM Package Populator                       	| https://github.com/ashblue/upm-package-populator           	|
 
 # How to support UPM in my Git repository?
 
