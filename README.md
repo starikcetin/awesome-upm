@@ -31,6 +31,7 @@
 * Ingame Debug Console (fork): https://github.com/starikcetin/UnityIngameDebugConsole
 * ECS Line Renderer: https://github.com/5argon/ECSLineRenderer
 * NanoECS: https://github.com/SinyavtsevIlya/NanoECS
+* Eflatun.WebView: https://github.com/starikcetin/Eflatun.WebView
 
 # UPM Utilities
 
