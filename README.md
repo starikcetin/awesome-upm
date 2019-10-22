@@ -10,12 +10,24 @@
 | Serializable Dictionary (fork)         	| https://github.com/starikcetin/Unity-SerializableDictionary   	|
 | Constants Generator (import from gist) 	| https://github.com/starikcetin/unity-constants-generator      	|
 | UI Extensions                          	| https://bitbucket.org/UnityUIExtensions/unity-ui-extensions   	|
-| Eflatun.Expansions                     	| https://github.com/starikcetin/Eflatun.Expansions             	|
-| Eflatun.UnityCommon                    	| https://github.com/starikcetin/Eflatun.UnityCommon            	|
+| Eflatun.Tracking2D		 				          | https://github.com/starikcetin/Eflatun.Tracking2D					      |
+| Eflatun.Calculation		 				          | https://github.com/starikcetin/Eflatun.Calculation				      |
+| Eflatun.GridBuilding	 					        | https://github.com/starikcetin/Eflatun.GridBuilding				      |
+| Eflatun.Inspector		 					          | https://github.com/starikcetin/Eflatun.Inspector					      |
+| Eflatun.HexMath			 				            | https://github.com/starikcetin/Eflatun.HexMath					        |
+| Eflatun.Sampling		 					          | https://github.com/starikcetin/Eflatun.Sampling					        |
+| Eflatun.Trajectory		 				          | https://github.com/starikcetin/Eflatun.Trajectory					      |
+| Eflatun.Pooling			 				            | https://github.com/starikcetin/Eflatun.Pooling					        |
+| Eflatun.Common			 				            | https://github.com/starikcetin/Eflatun.Common						        |
+| Eflatun.UI				 				              | https://github.com/starikcetin/Eflatun.UI							          |
+| Eflatun.Serialization	 					        | https://github.com/starikcetin/Eflatun.Serialization				    |
+| Eflatun.RandomUtils		 				          | https://github.com/starikcetin/Eflatun.RandomUtils				      |
+| Eflatun.CodePatterns	 					        | https://github.com/starikcetin/Eflatun.CodePatterns				      |
+| Eflatun.GeoUnity		 					          | https://github.com/starikcetin/Eflatun.GeoUnity					        |
+| Eflatun.Expansions		 				          | https://github.com/starikcetin/Eflatun.Expansions					      |
+| Eflatun.WebView			 				            | https://github.com/starikcetin/Eflatun.WebView					        |
 | Unity Addressable Importer             	| https://github.com/favoyang/unity-addressable-importer        	|
-| Eflatun.Tracking2D                     	| https://github.com/starikcetin/Eflatun.Tracking2D             	|
 | CommUnityStore                         	| https://github.com/RafaelGrochoska/CommUnityStore             	|
-| Eflatun.HexMath                        	| https://github.com/starikcetin/Eflatun.HexMath                	|
 | Scene View Camera Aligner              	| https://github.com/baba-s/uni-scene-view-camera-aligner       	|
 | Newtonsoft.Json                        	| https://github.com/PixelWizards/com.newtonsoft.json           	|
 | Newtonsoft.Json                        	| https://github.com/k0dep/Newtonsoft.Json                      	|
@@ -26,13 +38,11 @@
 | NaughtyAttributes (fork)               	| https://github.com/JimmyCushnie/NaughtyAttributes             	|
 | UI Shapes Kit (fork)                   	| https://github.com/JimmyCushnie/ui-shapes-kit_jimmyfork/      	|
 | SUCC                                   	| http://www.succ.software/                                     	|
-| Eflatun.GeoUnity                       	| https://github.com/starikcetin/Eflatun.GeoUnity               	|
 | Cinemachine                            	| https://github.com/Unity-Technologies/upm-package-cinemachine 	|
 | EntitySelection                        	| https://github.com/JonasDeM/EntitySelection                   	|
 | Ingame Debug Console (fork)            	| https://github.com/starikcetin/UnityIngameDebugConsole        	|
 | ECS Line Renderer                      	| https://github.com/5argon/ECSLineRenderer                     	|
 | NanoECS                                	| https://github.com/SinyavtsevIlya/NanoECS                     	|
-| Eflatun.WebView                        	| https://github.com/starikcetin/Eflatun.WebView                	|
 
 # UPM Utilities
 
