@@ -48,6 +48,7 @@
 | JTween                                  | https://github.com/jeffcampbellmakesgames/unity-jtween#release/stable |
 | JCMG SemVer                             | https://github.com/jeffcampbellmakesgames/unity-semver#release/stable |
 | Scriptable-Architecture                 | https://github.com/DanielEverland/ScriptableObject-Architecture#release/stable |
+| Outline-Effect                          | https://github.com/cakeslice/Outline-Effect                     |
 
 # UPM Utilities
 
