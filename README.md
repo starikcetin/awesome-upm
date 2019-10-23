@@ -44,6 +44,10 @@
 | ECS Line Renderer                      	| https://github.com/5argon/ECSLineRenderer                     	|
 | NanoECS                                	| https://github.com/SinyavtsevIlya/NanoECS                     	|
 | joy                                    	| https://github.com/starikcetin/joy                             	|
+| AutoPreset                              | https://github.com/jeffcampbellmakesgames/unity-auto-preset#release/stable |
+| JTween                                  | https://github.com/jeffcampbellmakesgames/unity-jtween#release/stable |
+| JCMG SemVer                             | https://github.com/jeffcampbellmakesgames/unity-semver#release/stable |
+| Scriptable-Architecture                 | https://github.com/DanielEverland/ScriptableObject-Architecture#release/stable |
 
 # UPM Utilities
 
@@ -56,6 +60,7 @@
 | (WIP) Automate UPM publishing for Git repos 	| https://github.com/starikcetin/git-upm-publisher           	|
 | (WIP) Public package registry for UPM       	| https://github.com/openupm                                 	|
 | UPM Package Populator                       	| https://github.com/ashblue/upm-package-populator           	|
+| JCMG Package Tools                            | https://github.com/jeffcampbellmakesgames/unity-package-tools#release/stable |
 
 # How to support UPM in my Git repository?
 
