@@ -49,6 +49,7 @@
 | JCMG SemVer                             | https://github.com/jeffcampbellmakesgames/unity-semver#release/stable |
 | Scriptable-Architecture                 | https://github.com/DanielEverland/ScriptableObject-Architecture#release/stable |
 | Outline-Effect                          | https://github.com/cakeslice/Outline-Effect                     |
+| Eflatun.AndroidManifestHook             | https://github.com/starikcetin/Eflatun.AndroidManifestHook      |
 
 # UPM Utilities
 
