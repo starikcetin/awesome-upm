@@ -6,7 +6,7 @@
 | UniRx (fork)                           	| https://github.com/starikcetin/UniRx                          	|
 | uREPL (fork)                           	| https://github.com/starikcetin/uREPL                          	|
 | NuGet for Unity (fork)                 	| https://github.com/starikcetin/NuGetForUnity                  	|
-| Scene Reference (import form gist)     	| https://github.com/starikcetin/unity-scene-reference          	|
+| Scene Reference (import from gist)     	| https://github.com/starikcetin/unity-scene-reference          	|
 | Serializable Dictionary (fork)         	| https://github.com/starikcetin/Unity-SerializableDictionary   	|
 | Constants Generator (import from gist) 	| https://github.com/starikcetin/unity-constants-generator      	|
 | UI Extensions                          	| https://bitbucket.org/UnityUIExtensions/unity-ui-extensions   	|
