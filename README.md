@@ -59,7 +59,7 @@
 | Elegant UI in UPM for Git repo imports      	| https://github.com/mob-sakai/UpmGitExtension               	|
 | Git dependency resolver for UPM             	| https://github.com/mob-sakai/GitDependencyResolverForUnity 	|
 | Git dependency resolver for UPM             	| https://github.com/k0dep/Originer                          	|
-| (WIP) Automate UPM publishing for Git repos 	| https://github.com/starikcetin/git-upm-publisher           	|
+| Automate UPM publishing for Git repos 	      | https://github.com/starikcetin/git-upm-publisher           	|
 | (WIP) Public package registry for UPM       	| https://github.com/openupm                                 	|
 | UPM Package Populator                       	| https://github.com/ashblue/upm-package-populator           	|
 | JCMG Package Tools                            | https://github.com/jeffcampbellmakesgames/unity-package-tools#release/stable |
