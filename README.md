@@ -50,6 +50,7 @@
 | Scriptable-Architecture                 | https://github.com/DanielEverland/ScriptableObject-Architecture#release/stable |
 | Outline-Effect                          | https://github.com/cakeslice/Outline-Effect                     |
 | Eflatun.AndroidManifestHook             | https://github.com/starikcetin/Eflatun.AndroidManifestHook      |
+| BindingsRx (fork)                       | https://github.com/starikcetin/bindingsrx                       |
 
 # UPM Utilities
 
