@@ -51,6 +51,7 @@
 | Outline-Effect                          | https://github.com/cakeslice/Outline-Effect                     |
 | Eflatun.AndroidManifestHook             | https://github.com/starikcetin/Eflatun.AndroidManifestHook      |
 | BindingsRx (fork)                       | https://github.com/starikcetin/bindingsrx                       |
+| EcsRx.Unity (fork)                      | https://github.com/starikcetin/ecsrx.unity                      |
 
 # UPM Utilities
 
