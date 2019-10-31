@@ -52,6 +52,7 @@
 | Eflatun.AndroidManifestHook             | https://github.com/starikcetin/Eflatun.AndroidManifestHook      |
 | BindingsRx (fork)                       | https://github.com/starikcetin/bindingsrx                       |
 | EcsRx.Unity (fork)                      | https://github.com/starikcetin/ecsrx.unity                      |
+| type-inspector                          | https://github.com/k0dep/type-inspector                         |
 
 # UPM Utilities
 
