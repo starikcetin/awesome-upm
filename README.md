@@ -54,6 +54,7 @@
 | EcsRx.Unity (fork)                      | https://github.com/starikcetin/ecsrx.unity                      |
 | type-inspector                          | https://github.com/k0dep/type-inspector                         |
 | BindingsRx-TextMeshPro                  | https://github.com/starikcetin/BindingsRx-TextMeshPro           |
+| Eflatun.EventBus                        | https://github.com/starikcetin/Eflatun.EventBus                 |
 
 # UPM Utilities
 
