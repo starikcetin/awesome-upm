@@ -55,6 +55,7 @@
 | type-inspector                          | https://github.com/k0dep/type-inspector                         |
 | BindingsRx-TextMeshPro                  | https://github.com/starikcetin/BindingsRx-TextMeshPro           |
 | Eflatun.EventBus                        | https://github.com/starikcetin/Eflatun.EventBus                 |
+| Scene Switcher                          | https://github.com/coryleach/UnitySceneSwitcher                 |
 
 # UPM Utilities
 
