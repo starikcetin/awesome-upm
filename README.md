@@ -56,6 +56,7 @@
 | BindingsRx-TextMeshPro                  | https://github.com/starikcetin/BindingsRx-TextMeshPro           |
 | Eflatun.EventBus                        | https://github.com/starikcetin/Eflatun.EventBus                 |
 | Scene Switcher                          | https://github.com/coryleach/UnitySceneSwitcher                 |
+| Hierarchy Folders                       | https://github.com/xsduan/unity-hierarchy-folders               |
 
 # UPM Utilities
 
