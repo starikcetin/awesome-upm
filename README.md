@@ -57,6 +57,7 @@
 | Eflatun.EventBus                        | https://github.com/starikcetin/Eflatun.EventBus                 |
 | Scene Switcher                          | https://github.com/coryleach/UnitySceneSwitcher                 |
 
+
 # UPM Utilities
 
 | Name                                        	| URL                                                        	|
@@ -69,6 +70,7 @@
 | (WIP) Public package registry for UPM       	| https://github.com/openupm                                 	|
 | UPM Package Populator                       	| https://github.com/ashblue/upm-package-populator           	|
 | JCMG Package Tools                            | https://github.com/jeffcampbellmakesgames/unity-package-tools#release/stable |
+| UPM Embed (embed UPM packages for editing)    | https://github.com/liortal53/upm-embed                      |
 
 # How to support UPM in my Git repository?
 
