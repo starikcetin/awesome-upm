@@ -53,7 +53,13 @@
 | BindingsRx (fork)                       | https://github.com/starikcetin/bindingsrx                       |
 | EcsRx.Unity (fork)                      | https://github.com/starikcetin/ecsrx.unity                      |
 | type-inspector                          | https://github.com/k0dep/type-inspector                         |
+| BindingsRx-TextMeshPro                  | https://github.com/starikcetin/BindingsRx-TextMeshPro           |
+| Eflatun.EventBus                        | https://github.com/starikcetin/Eflatun.EventBus                 |
+| Scene Switcher                          | https://github.com/coryleach/UnitySceneSwitcher                 |
+| Hierarchy Folders                       | https://github.com/xsduan/unity-hierarchy-folders               |
+| Asset Inspector                         | https://github.com/johnsoncodehk/unity-asset-inspector          |
 | BindingRx                               | https://github.com/k0dep/BindingRx                              |
+
 
 # UPM Utilities
 
@@ -67,6 +73,8 @@
 | (WIP) Public package registry for UPM       	| https://github.com/openupm                                 	|
 | UPM Package Populator                       	| https://github.com/ashblue/upm-package-populator           	|
 | JCMG Package Tools                            | https://github.com/jeffcampbellmakesgames/unity-package-tools#release/stable |
+| UPM Embed (embed UPM packages for editing)    | https://github.com/liortal53/upm-embed                      |
+
 
 # How to support UPM in my Git repository?
 
