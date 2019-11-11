@@ -58,6 +58,7 @@
 | Scene Switcher                          | https://github.com/coryleach/UnitySceneSwitcher                 |
 | Hierarchy Folders                       | https://github.com/xsduan/unity-hierarchy-folders               |
 | Asset Inspector                         | https://github.com/johnsoncodehk/unity-asset-inspector          |
+| Unity Markdown Viewer (UMV)             | https://github.com/gwaredd/UnityMarkdownViewer                  |
 
 
 # UPM Utilities
