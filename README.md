@@ -2,6 +2,14 @@
 An awesome list of Git repositories for Unity that support Unity Package Manager (UPM).
 
 
+## Asset
+
+| Name                                   	| URL                                                           	|
+|----------------------------------------	|---------------------------------------------------------------	|
+| Eflatun.WebView			 				| https://github.com/starikcetin/Eflatun.WebView					|
+| Outline-Effect                          	| https://github.com/cakeslice/Outline-Effect                     	|
+
+
 ## Code
 
 | Name                                   	| URL                                                           	|
@@ -26,6 +34,29 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 | Newtonsoft.Json (k0dep)                  	| https://github.com/k0dep/Newtonsoft.Json                      	|
 | Newtonsoft.Json (Wolfoso)                	| https://github.com/Wolfoso/NewtonsoftJson                     	|
 | SUCC                                   	| http://www.succ.software/                                     	|
+
+
+## ECS & DOTS
+
+| Name                                   	| URL                                                           	|
+|----------------------------------------	|---------------------------------------------------------------	|
+| ECS Line Renderer                      	| https://github.com/5argon/ECSLineRenderer                     	|
+| EntitySelection                        	| https://github.com/JonasDeM/EntitySelection                   	|
+| JTween                                  	| https://github.com/jeffcampbellmakesgames/unity-jtween#release/stable |
+
+
+## Framework
+
+| Name                                   	| URL                                                           	|
+|----------------------------------------	|---------------------------------------------------------------	|
+| BindingsRx (fork)                       	| https://github.com/starikcetin/bindingsrx                       	|
+| BindingsRx-TextMeshPro                  	| https://github.com/starikcetin/BindingsRx-TextMeshPro           	|
+| EcsRx.Unity (fork)                      	| https://github.com/starikcetin/ecsrx.unity                      	|
+| Extenject (fork)                       	| https://github.com/starikcetin/Extenject                      	|
+| joy                                    	| https://github.com/starikcetin/joy                             	|
+| NanoECS                                	| https://github.com/SinyavtsevIlya/NanoECS                     	|
+| Scriptable-Architecture                 	| https://github.com/DanielEverland/ScriptableObject-Architecture#release/stable |
+| UniRx (fork)                           	| https://github.com/starikcetin/UniRx                          	|
 
 
 ## Inspector
@@ -67,37 +98,6 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 | Scene View Camera Aligner              	| https://github.com/baba-s/uni-scene-view-camera-aligner       	|
 | Unity Addressable Importer             	| https://github.com/favoyang/unity-addressable-importer        	|
 | uREPL (fork)                           	| https://github.com/starikcetin/uREPL                          	|
-
-
-## Asset
-
-| Name                                   	| URL                                                           	|
-|----------------------------------------	|---------------------------------------------------------------	|
-| Eflatun.WebView			 				| https://github.com/starikcetin/Eflatun.WebView					|
-| Outline-Effect                          	| https://github.com/cakeslice/Outline-Effect                     	|
-
-
-## Framework
-
-| Name                                   	| URL                                                           	|
-|----------------------------------------	|---------------------------------------------------------------	|
-| BindingsRx (fork)                       	| https://github.com/starikcetin/bindingsrx                       	|
-| BindingsRx-TextMeshPro                  	| https://github.com/starikcetin/BindingsRx-TextMeshPro           	|
-| EcsRx.Unity (fork)                      	| https://github.com/starikcetin/ecsrx.unity                      	|
-| Extenject (fork)                       	| https://github.com/starikcetin/Extenject                      	|
-| joy                                    	| https://github.com/starikcetin/joy                             	|
-| NanoECS                                	| https://github.com/SinyavtsevIlya/NanoECS                     	|
-| Scriptable-Architecture                 	| https://github.com/DanielEverland/ScriptableObject-Architecture#release/stable |
-| UniRx (fork)                           	| https://github.com/starikcetin/UniRx                          	|
-
-
-## ECS & DOTS
-
-| Name                                   	| URL                                                           	|
-|----------------------------------------	|---------------------------------------------------------------	|
-| ECS Line Renderer                      	| https://github.com/5argon/ECSLineRenderer                     	|
-| EntitySelection                        	| https://github.com/JonasDeM/EntitySelection                   	|
-| JTween                                  	| https://github.com/jeffcampbellmakesgames/unity-jtween#release/stable |
 
 
 ## UPM Utilities
