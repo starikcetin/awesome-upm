@@ -108,7 +108,7 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 | Git Dependency Resolver For Unity        	| https://github.com/mob-sakai/GitDependencyResolverForUnity 	|
 | Git UPM Publisher							| https://github.com/starikcetin/git-upm-publisher           	|
 | JCMG Package Tools                        | https://github.com/jeffcampbellmakesgames/unity-package-tools#release/stable |
-| OpenUPM (WIP)         					| https://github.com/openupm                                 	|
+| OpenUPM									| https://openupm.com                                 	        |
 | Originer              					| https://github.com/k0dep/Originer                          	|
 | Unity NuGet                        		| https://github.com/xoofx/UnityNuGet                        	|
 | UPM Git Extension       					| https://github.com/mob-sakai/UpmGitExtension               	|
