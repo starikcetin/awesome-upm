@@ -49,14 +49,15 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 
 | Name                                   	| URL                                                           	|
 |----------------------------------------	|---------------------------------------------------------------	|
-| BindingsRx (fork)                       	| https://github.com/starikcetin/bindingsrx                       	|
-| BindingsRx-TextMeshPro                  	| https://github.com/starikcetin/BindingsRx-TextMeshPro           	|
-| EcsRx.Unity (fork)                      	| https://github.com/starikcetin/ecsrx.unity                      	|
+| BindingsRx (fork)                       | https://github.com/starikcetin/bindingsrx                       |
+| BindingsRx-TextMeshPro                  | https://github.com/starikcetin/BindingsRx-TextMeshPro          	|
+| EcsRx.Unity (fork)                      | https://github.com/starikcetin/ecsrx.unity                     	|
 | Extenject (fork)                       	| https://github.com/starikcetin/Extenject                      	|
 | joy                                    	| https://github.com/starikcetin/joy                             	|
 | NanoECS                                	| https://github.com/SinyavtsevIlya/NanoECS                     	|
-| Scriptable-Architecture                 	| https://github.com/DanielEverland/ScriptableObject-Architecture#release/stable |
+| Scriptable-Architecture                 | https://github.com/DanielEverland/ScriptableObject-Architecture#release/stable |
 | UniRx (fork)                           	| https://github.com/starikcetin/UniRx                          	|
+| The Mixed Reality Toolkit (XRTK)        | https://github.com/XRTK/XRTK-Core                               |
 
 
 ## Inspector
