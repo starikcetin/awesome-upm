@@ -56,8 +56,8 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 | joy                                    	| https://github.com/starikcetin/joy                             	|
 | NanoECS                                	| https://github.com/SinyavtsevIlya/NanoECS                     	|
 | Scriptable-Architecture                 | https://github.com/DanielEverland/ScriptableObject-Architecture#release/stable |
-| UniRx (fork)                           	| https://github.com/starikcetin/UniRx                          	|
 | The Mixed Reality Toolkit (XRTK)        | https://github.com/XRTK/XRTK-Core                               |
+| UniRx (fork)                           	| https://github.com/starikcetin/UniRx                          	|
 
 
 ## Inspector
