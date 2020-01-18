@@ -68,7 +68,7 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 | Name                                      | URL                                                                                   |
 |-------------------------------------------|---------------------------------------------------------------------------------------|
 | Eflatun.Inspector                         | https://github.com/starikcetin/Eflatun.Inspector                                      |
-| NaughtyAttributes                         | https://github.com/dbrizov/NaughtyAttributes/tree/upm                                 |
+| NaughtyAttributes                         | https://github.com/dbrizov/NaughtyAttributes                                          |
 | Scene Reference (import from gist)        | https://github.com/starikcetin/unity-scene-reference                                  |
 | Serializable Callback                     | https://github.com/MeikelLP/SerializableCallback                                      |
 | Serializable Dictionary (fork)            | https://github.com/starikcetin/Unity-SerializableDictionary                           |
