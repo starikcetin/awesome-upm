@@ -14,6 +14,7 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 
 | Name                                      | URL                                                                                   |
 |-------------------------------------------|---------------------------------------------------------------------------------------|
+| ClassImpl                                 | https://github.com/pipe01/classimpl                                                   |
 | Eflatun.Calculation                       | https://github.com/starikcetin/Eflatun.Calculation                                    |
 | Eflatun.CodePatterns                      | https://github.com/starikcetin/Eflatun.CodePatterns                                   |
 | Eflatun.Common                            | https://github.com/starikcetin/Eflatun.Common                                         |
@@ -29,10 +30,12 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 | Eflatun.Tracking2D                        | https://github.com/starikcetin/Eflatun.Tracking2D                                     |
 | Eflatun.Trajectory                        | https://github.com/starikcetin/Eflatun.Trajectory                                     |
 | Enum Generator                            | https://github.com/BastianBlokland/enum-generator-unity                               |
+| InterSUCC                                 | https://github.com/JimmyCushnie/InterSUCC                                             |
 | Json RPC                                  | https://github.com/k0dep/Unity-Json-Rpc                                               |
 | Newtonsoft.Json (PixelWizards)            | https://github.com/PixelWizards/com.newtonsoft.json                                   |
 | Newtonsoft.Json (k0dep)                   | https://github.com/k0dep/Newtonsoft.Json                                              |
 | Newtonsoft.Json (Wolfoso)                 | https://github.com/Wolfoso/NewtonsoftJson                                             |
+| PersistentData                            | https://github.com/JimmyCushnie/PersistentData                                        |
 | SUCC                                      | http://www.succ.software/                                                             |
 
 
