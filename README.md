@@ -32,7 +32,9 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 | Enum Generator                            | https://github.com/BastianBlokland/enum-generator-unity                               |
 | InterSUCC                                 | https://github.com/JimmyCushnie/InterSUCC                                             |
 | Json RPC                                  | https://github.com/k0dep/Unity-Json-Rpc                                               |
-| Newtonsoft.Json (PixelWizards)            | https://github.com/PixelWizards/com.newtonsoft.json                                   |
+| Newtonsoft.Json 12.0.1-12.0.2 (jilleJr)   | https://github.com/jilleJr/Newtonsoft.Json-for-Unity                                  |
+| Newtonsoft.Json 7.0.1-9.0.1 (SaladLab)    | https://github.com/SaladLab/Json.Net.Unity3D                                          |
+| Newtonsoft.Json 12.0.1 (PixelWizards)     | https://github.com/PixelWizards/com.newtonsoft.json                                   |
 | Newtonsoft.Json (k0dep)                   | https://github.com/k0dep/Newtonsoft.Json                                              |
 | Newtonsoft.Json (Wolfoso)                 | https://github.com/Wolfoso/NewtonsoftJson                                             |
 | PersistentData                            | https://github.com/JimmyCushnie/PersistentData                                        |
