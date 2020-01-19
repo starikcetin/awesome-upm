@@ -33,8 +33,6 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 | InterSUCC                                 | https://github.com/JimmyCushnie/InterSUCC                                             |
 | Json RPC                                  | https://github.com/k0dep/Unity-Json-Rpc                                               |
 | Newtonsoft.Json (PixelWizards)            | https://github.com/PixelWizards/com.newtonsoft.json                                   |
-| Newtonsoft.Json (k0dep)                   | https://github.com/k0dep/Newtonsoft.Json                                              |
-| Newtonsoft.Json (Wolfoso)                 | https://github.com/Wolfoso/NewtonsoftJson                                             |
 | PersistentData                            | https://github.com/JimmyCushnie/PersistentData                                        |
 | SUCC                                      | http://www.succ.software/                                                             |
 
