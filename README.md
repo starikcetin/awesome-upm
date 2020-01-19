@@ -34,8 +34,6 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 | Json RPC                                  | https://github.com/k0dep/Unity-Json-Rpc                                               |
 | Newtonsoft.Json 12.0.1-12.0.2 (jilleJr)   | https://github.com/jilleJr/Newtonsoft.Json-for-Unity                                  |
 | Newtonsoft.Json 12.0.1 (PixelWizards)     | https://github.com/PixelWizards/com.newtonsoft.json                                   |
-| Newtonsoft.Json (k0dep)                   | https://github.com/k0dep/Newtonsoft.Json                                              |
-| Newtonsoft.Json (Wolfoso)                 | https://github.com/Wolfoso/NewtonsoftJson                                             |
 | PersistentData                            | https://github.com/JimmyCushnie/PersistentData                                        |
 | SUCC                                      | http://www.succ.software/                                                             |
 
@@ -69,7 +67,7 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 | Name                                      | URL                                                                                   |
 |-------------------------------------------|---------------------------------------------------------------------------------------|
 | Eflatun.Inspector                         | https://github.com/starikcetin/Eflatun.Inspector                                      |
-| NaughtyAttributes                         | https://github.com/dbrizov/NaughtyAttributes/tree/upm                                 |
+| NaughtyAttributes                         | https://github.com/dbrizov/NaughtyAttributes                                          |
 | Scene Reference (import from gist)        | https://github.com/starikcetin/unity-scene-reference                                  |
 | Serializable Callback                     | https://github.com/MeikelLP/SerializableCallback                                      |
 | Serializable Dictionary (fork)            | https://github.com/starikcetin/Unity-SerializableDictionary                           |
