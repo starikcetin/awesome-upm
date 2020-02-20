@@ -45,6 +45,7 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 | ECS Line Renderer                         | https://github.com/5argon/ECSLineRenderer                                             |
 | EntitySelection                           | https://github.com/JonasDeM/EntitySelection                                           |
 | JTween                                    | https://github.com/jeffcampbellmakesgames/unity-jtween#release/stable                 |
+| ReeseUnityDemos                           | https://github.com/reeseschultz/ReeseUnityDemos                                       |
 
 
 ## Framework
@@ -113,6 +114,7 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 | JCMG Package Tools                        | https://github.com/jeffcampbellmakesgames/unity-package-tools#release/stable          |
 | OpenUPM                                   | https://openupm.com                                                                   |
 | Originer                                  | https://github.com/k0dep/Originer                                                     |
+| ubump                                     | https://github.com/reeseschultz/ubump                                                 |
 | Unity NuGet                               | https://github.com/xoofx/UnityNuGet                                                   |
 | UPM Git Extension                         | https://github.com/mob-sakai/UpmGitExtension                                          |
 | UPM Package Populator                     | https://github.com/ashblue/upm-package-populator                                      |
@@ -121,7 +123,7 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 
 # How to support UPM in my Git repository?
 
-UPM wants a package.json file at the root. There are ways of doing this without changing your whole repository structure. Take a look at [this amazing article](https://www.patreon.com/posts/25070968) by mob-sakai.
+UPM requires a package.json file at the root, or, alternatively for a UPM monorepo, one package.json file per subdirectory (typically with each of those directories inside `/Packages`). There are ways of doing this without changing your whole repository structure. Take a look at [this amazing article](https://www.patreon.com/posts/25070968) by mob-sakai.
 
 After you read that article, take a look at [this tool](https://github.com/starikcetin/git-upm-publisher) for automating that process.
 
