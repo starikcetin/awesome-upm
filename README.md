@@ -123,5 +123,5 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 
 UPM wants a package.json file at the root. There are ways of doing this without changing your whole repository structure. Take a look at [this amazing article](https://www.patreon.com/posts/25070968) by mob-sakai.
 
-After you read that article, take a look at [this tool](https://github.com/starikcetin/git-upm-publisher) for automating that process.
+After you read that article, take a look at [this tool](https://github.com/starikcetin/git-upm-publisher-2) for automating that process.
 
