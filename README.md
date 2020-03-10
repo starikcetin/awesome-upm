@@ -35,6 +35,7 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 | Newtonsoft.Json 12.0.1-12.0.2 (jilleJr)   | https://github.com/jilleJr/Newtonsoft.Json-for-Unity                                  |
 | Newtonsoft.Json 12.0.1 (PixelWizards)     | https://github.com/PixelWizards/com.newtonsoft.json                                   |
 | PersistentData                            | https://github.com/JimmyCushnie/PersistentData                                        |
+| UniTask (fork)                            | https://github.com/starikcetin/UniTask                                                |
 | SUCC                                      | https://github.com/JimmyCushnie/SUCC                                                  |
 
 
