@@ -52,6 +52,7 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 
 | Name                                      | URL                                                                                   |
 |-------------------------------------------|---------------------------------------------------------------------------------------|
+| AnimeTask (fork)                          | https://github.com/starikcetin/AnimeTask                                              |
 | BindingsRx (fork)                         | https://github.com/starikcetin/bindingsrx                                             |
 | BindingsRx-TextMeshPro                    | https://github.com/starikcetin/BindingsRx-TextMeshPro                                 |
 | EcsRx.Unity (fork)                        | https://github.com/starikcetin/ecsrx.unity                                            |
