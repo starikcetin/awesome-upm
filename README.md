@@ -62,6 +62,7 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 | Scriptable-Architecture                   | https://github.com/DanielEverland/ScriptableObject-Architecture#release/stable        |
 | The Mixed Reality Toolkit (XRTK)          | https://github.com/XRTK/XRTK-Core                                                     |
 | UniRx (fork)                              | https://github.com/starikcetin/UniRx                                                  |
+| UniTask (fork)                            | https://github.com/starikcetin/UniTask                                                |
 
 
 ## Inspector
