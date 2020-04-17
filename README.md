@@ -77,6 +77,13 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 | type-inspector                            | https://github.com/k0dep/type-inspector                                               |
 
 
+## Shader Graph
+
+| Name                                      | URL                                                                                   |
+|-------------------------------------------|---------------------------------------------------------------------------------------|
+| Noisy Nodes                               | https://github.com/jimmycushnie/noisy-nodes                                           |
+
+
 ## UI
 
 | Name                                      | URL                                                                                   |
