@@ -8,6 +8,7 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 |-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 |[Eflatun.WebView                           ](https://github.com/starikcetin/Eflatun.WebView                                       )| WebView for Unity.                                                                                                    |
 |[Outline-Effect                            ](https://github.com/cakeslice/Outline-Effect                                          )| Draw colored outlines around objects in 3D                                                                            |
+|[UniLWP.Droid                              ](https://github.com/JustinFincher/UniLWP.Droid.Package.Free                           )| Drop-in aar for making Android live wallpapers using Unity                                                            |
 
 
 ## Code
