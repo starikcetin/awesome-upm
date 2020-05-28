@@ -65,6 +65,10 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 |[UniRx (fork)                              ](https://github.com/starikcetin/UniRx                                                 )| Reactive Extensions for Unity                                                                                         |
 |[UniTask (fork)                            ](https://github.com/starikcetin/UniTask                                               )| Provides an efficient async/await integration to Unity.                                                               |
 
+## Native plugins
+| Package                                                                                                                           | Description                                                                                                           |
+|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+|[Sign in with Apple Unity Plugin           ](https://github.com/lupidan/apple-signin-unity                                        )| Adds native Sign in With Apple support for iOS, tvOS and macOS                                                        |
 
 ## Inspector
 
