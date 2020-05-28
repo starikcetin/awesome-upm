@@ -60,12 +60,15 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 |[Extenject (fork)                          ](https://github.com/starikcetin/Extenject                                             )| Dependency Injection Framework                                                                                        |
 |[joy                                       ](https://github.com/starikcetin/joy                                                   )| ECS framework that uses MonoBehaviours as components and GameObjects as entities.                                     |
 |[NanoECS                                   ](https://github.com/SinyavtsevIlya/NanoECS                                            )| entity-component-system framework                                                                                     |
-|[Sign in with Apple Unity Plugin           ](https://github.com/lupidan/apple-signin-unity                                        )| Adds native Sign in With Apple support for iOS, tvOS and macOS                                                        |
 |[Scriptable-Architecture                   ](https://github.com/DanielEverland/ScriptableObject-Architecture                      )| Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy                         |
 |[The Mixed Reality Toolkit (XRTK)          ](https://github.com/XRTK/XRTK-Core                                                    )| Makes it extremely easy to get started creating Mixed Reality applications                                            |
 |[UniRx (fork)                              ](https://github.com/starikcetin/UniRx                                                 )| Reactive Extensions for Unity                                                                                         |
 |[UniTask (fork)                            ](https://github.com/starikcetin/UniTask                                               )| Provides an efficient async/await integration to Unity.                                                               |
 
+## Native plugins
+| Package                                                                                                                           | Description                                                                                                           |
+|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+|[Sign in with Apple Unity Plugin           ](https://github.com/lupidan/apple-signin-unity                                        )| Adds native Sign in With Apple support for iOS, tvOS and macOS                                                        |
 
 ## Inspector
 
