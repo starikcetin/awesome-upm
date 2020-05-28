@@ -65,10 +65,6 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 |[UniRx (fork)                              ](https://github.com/starikcetin/UniRx                                                 )| Reactive Extensions for Unity                                                                                         |
 |[UniTask (fork)                            ](https://github.com/starikcetin/UniTask                                               )| Provides an efficient async/await integration to Unity.                                                               |
 
-## Native plugins
-| Package                                                                                                                           | Description                                                                                                           |
-|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-|[Sign in with Apple Unity Plugin           ](https://github.com/lupidan/apple-signin-unity                                        )| Adds native Sign in With Apple support for iOS, tvOS and macOS                                                        |
 
 ## Inspector
 
@@ -80,6 +76,13 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 |[Serializable Callback                     ](https://github.com/MeikelLP/SerializableCallback                                     )| Lets you drag-and-drop methods in the Unity inspector.                                                                |
 |[Serializable Dictionary (fork)            ](https://github.com/starikcetin/Unity-SerializableDictionary                          )| A Dictionary class that can be serialized in the Unity inspector.                                                     |
 |[type-inspector                            ](https://github.com/k0dep/type-inspector                                              )| Reference types and members from the inspector.                                                                       |
+
+
+## Native Plugins
+
+| Package                                                                                                                           | Description                                                                                                           |
+|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+|[Sign in with Apple Unity Plugin           ](https://github.com/lupidan/apple-signin-unity                                        )| Adds native Sign in With Apple support for iOS, tvOS and macOS                                                        |
 
 
 ## Shader Graph
