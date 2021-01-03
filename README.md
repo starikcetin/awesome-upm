@@ -83,6 +83,7 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 | Package                                                                                                                           | Description                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 |[Sign in with Apple Unity Plugin           ](https://github.com/lupidan/apple-signin-unity                                        )| Adds native Sign in With Apple support for iOS, tvOS and macOS                                                        |
+|[AR Support Checker                        ](https://github.com/Rozhovetskyi/AR-Support-Checker                                )| Plain detection of AR supported (ARCore, ARKit, AR Foundation) devices.                                            |
 
 
 ## Shader Graph
