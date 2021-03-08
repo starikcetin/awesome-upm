@@ -138,6 +138,15 @@ An awesome list of Git repositories for Unity that support Unity Package Manager
 |[UPM Embed                                 ](https://github.com/liortal53/upm-embed                                               )| Unity editor extension for easily embedding UPM packages in your project                                              |
 
 
+## XR (AR/MR/VR)
+
+| Package                                                                                                                           | Description                                                                                                           |
+|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+|[WebXR Export                              ](https://github.com/De-Panther/unity-webxr-export/tree/master/Packages/webxr          )| Develop and export WebXR experiences using Unity WebGL                                                             |
+|[WebXR Interactions                        ](https://github.com/De-Panther/unity-webxr-export/tree/master/Packages/webxr-interactions)| Interaction Components and Samples for the WebXR Export package                                                  |
+|[WebXR Input Profiles Loader               ](https://github.com/De-Panther/webxr-input-profiles-loader                            )| Loads XR controllers models based on the user device on runtime                                                        |
+
+
 # How to support UPM in my Git repository?
 
 UPM requires a package.json file at the root, or, alternatively for a UPM monorepo, one package.json file per subdirectory (typically with each of those directories inside `/Packages`). There are ways of doing this without changing your whole repository structure. Take a look at [this amazing article](https://www.patreon.com/posts/25070968) by mob-sakai.
