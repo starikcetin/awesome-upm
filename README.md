@@ -1,3 +1,9 @@
+# Archive Notice
+
+This repository was created back when there were no publicly available UPM registries. Since then, [OpenUPM](https://openupm.com) has been made available by the marvellous [Favo Yang](https://github.com/favoyang). Therefore, please visit the OpenUPM registry to explore the awesome projects developed by the Unity community.
+
+---
+
 # Awesome UPM
 An awesome list of Git repositories for Unity that support Unity Package Manager (UPM).
 
